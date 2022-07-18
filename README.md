@@ -88,6 +88,26 @@ FINDMAG 150 Pcs 6 x 3 mm Fridge Magnets (https://a.co/d/gtRB6EM)
 
 Gantry
 
+(2) LDO NEMA 17 MOTOR HIGH TEMP LDO-42STH48-2504AH (https://lukeslabonline.com/collections/ldo/products/ldo-nema-17-motor-high-temp-ldo-42sth48-2504ah)
+
+Euclid Probe Kit (https://lukeslabonline.com/products/euclid-probe-kit?_pos=2&_psq=euclid&_ss=e&_v=1.0)
+
+LDO SHERPA MINI EXTRUDER (https://www.filastruder.com/products/ldo-sherpa-mini-extruder?_pos=1&_sid=63cdd680f&_ss=r)
+
+BONDTECH CHT™ COATED BRASS NOZZLE 0.5 (https://www.filastruder.com/collections/bondtech/products/bondtech-cht-coated-brass-nozzle-1-75?variant=39598895562823)
+
+DC 12V DC 24V WS7040 Small high pressure DC brushless centrifugal blower (https://www.aliexpress.com/item/2251832793886957.html?spm=a2g0o.order_list.0.0.427a1802JJ4DSx&gatewayAdapt=4itemAdapt)
+
+Mellow 1Pcs CNC CF-Tube (https://www.aliexpress.com/item/3256803567188649.html?spm=a2g0o.order_list.0.0.427a1802JJ4DSx&gatewayAdapt=4itemAdapt)
+
+Mellow Customized 3D Printers Parts V-Core-3 GT2 Idler Kit (https://www.aliexpress.com/item/3256803356356203.html?spm=a2g0o.order_list.0.0.427a1802JJ4DSx&gatewayAdapt=4itemAdapt)
+
+CANable Pro device controller USB to CAN transceiver (https://www.aliexpress.com/item/3256803818511656.html?spm=a2g0o.order_list.0.0.427a1802JJ4DSx&gatewayAdapt=4itemAdapt)
+
+Mellow High Temperature EPDM GATES-LL-2GT 9mm (https://www.aliexpress.com/item/3256802121511505.html?spm=a2g0o.order_list.0.0.427a1802JJ4DSx)
+
+HUVUD ToolboardHUVUD Toolboard (https://lukeslabonline.com/products/huvud?_pos=1&_sid=dbeb6d2e2&_ss=r)
+
 
 
 Tools/miscellaneous
