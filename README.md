@@ -1,11 +1,14 @@
 # Gantry-2.0
 Ender 6 conversion
+
 This is a WIP build, things are still changing but most the parts are the same.
 
-BOM
-These are the parts and online store links I purchased from (USA links).  
+
+BOM (These are the parts and online store links I purchased from-USA links).  
 
 Tri-Z/Bed
+
+
 Sexbolt Z Endstop Super Kit (https://deepfriedhero.in/products/voron-2-4-sexbolt-z-endstop-super-kit?_pos=2&_sid=f8b27350f&_ss=r)
 
 Trident Ultra-Flat Aluminum Bed by Lightweight Labware-300mm (https://deepfriedhero.in/products/ultra-flat-aluminum-bed?variant=42841402507486)
@@ -37,7 +40,9 @@ Thread Repair Insert Kit (Needed for Aluminum Extrusion to fit 5mm screws) (http
 WAGO 2 Port (10) 3 Port (10) 5 Port (5) 221 Splicing Connector for bed connections mount (https://a.co/d/dl5EyyR)
  
  
+ 
  Backpanel/Panels/Lid
+ 
  
  Adhesive Foam Tape (https://a.co/d/0FiQvY1)
  
@@ -80,10 +85,13 @@ Mean Well LRS-350-24 350w 24V (https://a.co/d/9Ff4uEM)
 FINDMAG 150 Pcs 6 x 3 mm Fridge Magnets (https://a.co/d/gtRB6EM)
 
 
+
 Gantry
 
 
+
 Tools/miscellaneous
+
 
 Paladin Tools 20-30 AWG Wire Cutter and Wire Stripper (https://a.co/d/1oqv2Gy)
 
