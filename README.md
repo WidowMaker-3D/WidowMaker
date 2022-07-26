@@ -27,7 +27,7 @@ Thermal Fuse-125c (https://deepfriedhero.in/products/thermal-fuse?_pos=1&_sid=34
 
 (3) LDO Stepper Motors-42STH60-2004MAC (https://www.filastruder.com/products/ldo-stepper-motors-all-types?_pos=1&_sid=814197b01&_ss=r&variant=31998729158727)
 
-OUYANG 4PCS T Slot 2020 Aluminum Extrusion (https://www.amazon.com/dp/B0912HVKPR?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+OUYANG 4PCS T Slot 2020 Aluminum Extrusion - Only 2 needed for the bed (https://www.amazon.com/dp/B0912HVKPR?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
 Thread Repair Insert Kit (Needed for Aluminum Extrusion to fit 5mm screws) (https://a.co/d/ehqW8V1) 
 
