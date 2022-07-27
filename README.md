@@ -4,7 +4,7 @@ Ender 6 conversion
 This is a WIP build, things are still changing but most the parts are the same.
 
 
-BOM (These are the parts and online store links I purchased from-USA links).  
+BOM (These are the parts and online stores I purchased from-USA links).  
 
 Tri-Z/Bed
 
