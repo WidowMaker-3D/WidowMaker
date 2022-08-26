@@ -9,6 +9,6 @@
 
 ### If you would like to donate to the people in the project to help offset cost for prototyping and the hard work that has gone into this project you can via the links below.
 
-[Blackice WM Gantry/Mods Paypal](https://www.paypal.com/donate/?business=M7J94LFBXLYML&no_recurring=1&currency_code=USD)
+[Blackice (WM Gantry/Mods) Paypal](https://www.paypal.com/donate/?business=M7J94LFBXLYML&no_recurring=1&currency_code=USD)
 
 ![Lowered_Gantry_2 0](https://user-images.githubusercontent.com/32583471/186049836-394aca32-8eb5-42f8-a941-3d92bf342065.png)
