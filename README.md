@@ -9,4 +9,6 @@
 
 [Discord Channel](https://discord.gg/nSfzTRzbCb)
 
+<iframe src="https://discord.com/widget?id=1012523170747650099&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 ![Lowered_Gantry_2 0](https://user-images.githubusercontent.com/32583471/186049836-394aca32-8eb5-42f8-a941-3d92bf342065.png)
